@@ -1,0 +1,30 @@
+package Reflection;
+
+public class Reflection {
+
+	public static void main(String[] args) {
+		String str =  "T";
+		try {
+			Class c = Class.forName("T");
+			c.newInstance();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}
+class T{
+	int i ;
+	String s;
+	
+	static {
+		System.out.println("eee");
+	}
+	public void m1(int i) {
+		this.i = i;
+	}
+	public String getS() {
+		return s;
+	}
+}

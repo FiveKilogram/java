@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="LeetCode.ListNode"/>
+<fullyQualifiedTypeName name="java.lang.invoke.MethodType"/>
+<fullyQualifiedTypeName name="java.lang.invoke.MethodHandle"/>
+<fullyQualifiedTypeName name="java.lang.invoke.MethodHandles"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+</qualifiedTypeNameHistroy>

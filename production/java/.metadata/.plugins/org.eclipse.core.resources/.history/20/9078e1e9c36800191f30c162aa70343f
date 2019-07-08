@@ -1,0 +1,17 @@
+package Reflection;
+
+public class Reflection {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+class T{
+	int i ;
+	String s;
+	public void m1() {
+		
+	}
+}

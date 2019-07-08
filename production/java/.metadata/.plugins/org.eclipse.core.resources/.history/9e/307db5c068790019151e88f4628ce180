@@ -1,0 +1,26 @@
+package practice;
+
+import java.util.Scanner;
+
+public class Main3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan  = new Scanner(System.in);
+		int num = scan.nextInt();
+		int time = scan.nextInt();
+		
+		int count = 0;
+		while(count<num) {
+			record r = new record();
+		}
+		
+	}
+	
+}
+
+class record{
+	int id;
+	int inTime;
+	int outTime;
+}

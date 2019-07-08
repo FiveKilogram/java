@@ -1,0 +1,42 @@
+package Reflection;
+
+public class Reflection {
+
+	public static void main(String[] args) {
+		String s =  "Reflection";
+		try {
+			Class c = Class.forName(s);
+			try {
+				c.newInstance();
+			} catch (InstantiationException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IllegalAccessException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}
+class T{
+	int i ;
+	String s;
+	
+	public T() {
+		System.out.println("errrrr");
+	}
+	
+	static {
+		System.out.println("eee");
+	}
+	public void m1(int i) {
+		this.i = i;
+	}
+	public String getS() {
+		return s;
+	}
+}
