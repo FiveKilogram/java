@@ -12,5 +12,8 @@ public class HuiSuTest {
         char c[] = new String("ABCESFCSADEE").toCharArray();
         char b[] = new String("ABCCED").toCharArray();
         assertEquals(true, h.hasPath(c,3,4,b));
+
+
+
     }
 }
