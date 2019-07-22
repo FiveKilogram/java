@@ -8,6 +8,9 @@ public class HuiSuTest {
 
     @Test
     public void hasPath() {
+
+
+        System.out.println("fdjisafjldsajl;f;ods");
         char c[] = new String("ABCESFCSADEE").toCharArray();
         char b[] = new String("ABCCED").toCharArray();
         assertEquals(true, h.hasPath(c,3,4,b));
