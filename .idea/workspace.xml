@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228de7b1-0fd6-4d62-b327-9eb2c89e1333" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Work/src/Reflection/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/Reflection/TT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Test/HuiSuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Test/HuiSuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/practice/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/TestFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,15 +69,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/src/practice/TestFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/src/TestStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -94,11 +80,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/Test/HuiSuTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="133">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -213,10 +220,11 @@
         <option value="$PROJECT_DIR$/Work/src/practice/HuiSu.java" />
         <option value="$PROJECT_DIR$/Work/src/TestStringTest.java" />
         <option value="$PROJECT_DIR$/Work/src/practice/TestFile.java" />
-        <option value="$PROJECT_DIR$/Work/Test/HuiSuTest.java" />
         <option value="$PROJECT_DIR$/Work/src/Reflection/T.java" />
         <option value="$PROJECT_DIR$/Work/src/Reflection/TT.java" />
         <option value="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" />
+        <option value="$PROJECT_DIR$/Work/Test/HuiSuTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -424,7 +432,7 @@
       <workItem from="1562937843807" duration="6870000" />
       <workItem from="1563344113522" duration="4252000" />
       <workItem from="1563414641029" duration="1363000" />
-      <workItem from="1563782801860" duration="284000" />
+      <workItem from="1563782801860" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1562549251473</created>
@@ -461,7 +469,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562567130142</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1563783108958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563783108958</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1563783217057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563783217057</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -497,7 +519,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95428000" />
+    <option name="totallyTimeSpent" value="95617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,8 +532,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49508196" visible="true" weight="0.24583964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49508196" visible="true" weight="0.24583964" />
       <window_info id="Structure" order="1" sideWeight="0.5040917" side_tool="true" weight="0.24886535" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -528,10 +551,10 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32733223" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.47881997" side_tool="true" visible="true" weight="0.36557376" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50907713" side_tool="true" visible="true" weight="0.27868852" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" sideWeight="0.49848714" weight="0.32786885" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49092284" visible="true" weight="0.27868852" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.25409836" />
       <window_info anchor="bottom" id="Database Console" order="14" sideWeight="0.49924356" weight="0.29787233" />
       <window_info anchor="bottom" id="SQL Generator" order="15" sideWeight="0.49848714" weight="0.3289689" />
@@ -634,13 +657,6 @@
     <SUITE FILE_PATH="coverage/java$HuiSu_hasPath.ic" NAME="HuiSu.hasPath Coverage Results" MODIFIED="1562118223025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1843">
-          <caret line="127" column="28" selection-start-line="127" selection-start-column="28" selection-end-line="127" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76988">
@@ -676,13 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1033,8 +1042,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/Test/HuiSuTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="133">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
