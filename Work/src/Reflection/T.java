@@ -12,8 +12,8 @@ public class T {
         System.out.println(new String("有参数构造方法".getBytes("gbk")));
     }
 
-    public T(){
-
+    public T() throws UnsupportedEncodingException {
+        System.out.println(new String("无参构造函数".getBytes("gbk")));
     }
 
     @Override
