@@ -1,53 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9acef62-6bef-456c-ae48-ce568099f31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Work/Test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/TestCompile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/Thread/TestJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/Thread/TestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+    <list default="true" id="d9acef62-6bef-456c-ae48-ce568099f31a" name="Default Changelist" comment="8.11">
+      <change afterPath="$PROJECT_DIR$/Work/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/Thread/TestVolatile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Reflection/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Reflection/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Reflection/TT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Reflection/TT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/TestString.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="736" column="40" selection-start-line="736" selection-start-column="40" selection-end-line="736" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/TestA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/TestAbstract2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/src/LeetCode/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3914">
-              <caret line="211" column="49" selection-start-line="211" selection-start-column="49" selection-end-line="211" selection-end-column="49" />
+            <state relative-caret-position="204">
+              <caret line="218" selection-start-line="218" selection-end-line="218" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/src/TestString.java">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="228">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestJoin.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="95">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -56,42 +81,39 @@
         <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="105" column="26" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="26" />
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+        <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestVolatile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13619">
-              <caret line="1202" column="7" lean-forward="true" selection-start-line="1202" selection-start-column="7" selection-end-line="1202" selection-end-column="7" />
-              <folding>
-                <element signature="e#22675#22676#0" expanded="true" />
-                <element signature="e#22703#22704#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/src/practice/Son.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Kotlin Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,22 +121,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Work/src/TestCompile.java" />
-        <option value="$PROJECT_DIR$/Work/src/Reflection/TT.java" />
-        <option value="$PROJECT_DIR$/Work/src/Reflection/T.java" />
-        <option value="$PROJECT_DIR$/Work/src/Reflection/Reflection.java" />
-        <option value="$PROJECT_DIR$/Work/src/Thread/TestThread.java" />
-        <option value="$PROJECT_DIR$/Work/src/Thread/TestJoin.java" />
+        <option value="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="C:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="C:\Users\Stone\.m2\settings.xml" />
-      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -129,6 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,35 +157,14 @@
               <item name="Work" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Java/jdk1.8.0_202/src.zip!/" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,24 +178,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestJoin">
-    <configuration name="Reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Java/jdk1.8.0_202/jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Reflection.Reflection" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Reflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.TestJoin" />
+  <component name="RunManager">
+    <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.TestVolatile" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -218,29 +192,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.TestThread" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.TestJoin" />
-      <item itemvalue="Application.TestThread" />
-      <item itemvalue="Application.Reflection" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestJoin" />
-        <item itemvalue="Application.TestThread" />
-        <item itemvalue="Application.Reflection" />
+        <item itemvalue="Application.TestVolatile" />
       </list>
     </recent_temporary>
   </component>
@@ -248,27 +202,16 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="d9acef62-6bef-456c-ae48-ce568099f31a" name="Default Changelist" comment="" />
-      <created>1565255213969</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1565255213969</updated>
-      <workItem from="1565255215314" duration="2209000" />
-      <workItem from="1565266150585" duration="5387000" />
-      <workItem from="1565426680394" duration="4270000" />
-    </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14296000" />
+    <option name="totallyTimeSpent" value="2509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.44251338" visible="true" weight="0.18176973" />
-      <window_info id="Structure" order="1" sideWeight="0.55748665" side_tool="true" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.87058824" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" sideWeight="0.12941177" side_tool="true" visible="true" weight="0.15831557" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -277,16 +220,16 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18872017" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17028199" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3327869" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22451194" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -300,211 +243,121 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Work/src/regex/TestRex.java">
+    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="445">
+          <caret line="1796" column="5" selection-start-line="1796" selection-start-column="5" selection-end-line="1796" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/TestFile2.java">
+    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="4541">
+          <caret line="267" column="54" selection-start-line="267" selection-start-column="54" selection-end-line="267" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/TestCompile.class" />
-    <entry file="file://$PROJECT_DIR$/Work/src/TestCompile.java" />
-    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/lang/Object.java" />
-    <entry file="file://$PROJECT_DIR$/Work/src/TestString.java">
+    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="4617">
+          <caret line="277" column="37" selection-start-line="277" selection-start-column="37" selection-end-line="277" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/lang/Class.java" />
-    <entry file="uml://JAVA/java.lang.ClassLoader">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.ClassLoader</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">java.lang.ClassLoader</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-227.0" y="-27.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/lang/ClassLoader.java" />
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/tset.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/A.java">
+    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        <state relative-caret-position="1672">
+          <caret line="113" column="57" selection-start-line="113" selection-start-column="57" selection-end-line="113" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/T.java">
+    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+        <state relative-caret-position="3895">
+          <caret line="233" column="60" selection-start-line="233" selection-start-column="60" selection-end-line="233" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/TestClassLoder.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        <state relative-caret-position="228">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/TT.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/Work/src/Reflection/Reflection.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/LeetCode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="204">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/practice/HuiSu.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/TestAbstract2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Thread.java" />
-    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/TestA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13619">
-          <caret line="1202" column="7" lean-forward="true" selection-start-line="1202" selection-start-column="7" selection-end-line="1202" selection-end-column="7" />
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="736" column="40" selection-start-line="736" selection-start-column="40" selection-end-line="736" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#22675#22676#0" expanded="true" />
-            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestReentrantLock.kt">
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/Son.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+    <entry file="file://$PROJECT_DIR$/Work/src/practice/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="105" column="26" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="26" />
+        <state relative-caret-position="95">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

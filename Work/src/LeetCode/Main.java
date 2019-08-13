@@ -220,6 +220,34 @@ public class Main {
 
 		return maxProfit;
 	}
+
+
+
+	//53. 最大子序和,动态规划基础题
+    public int maxSubArray(int[] nums) {
+        int sum = nums[0];
+        int result = nums[0];
+        for (int i = 1, length = nums.length; i < length; i++) {
+            // 我们不需要记录sum数组，只要算出当前的sum，然后和result比较就行了
+            sum = Math.max(sum + nums[i], nums[i]);
+            result = Math.max(result, sum);
+        }
+        return result;
+    }
+
+    public int maxSubArray2(int[] nums) {
+        int ans = nums[0];
+        int sum = Integer.MIN_VALUE;
+        for(int num: nums) {
+            if(sum > 0) {
+                sum += num;
+            } else {
+                sum = num;
+            }
+            ans = Math.max(ans, sum);
+        }
+        return ans;
+    }
 	
 }
 
