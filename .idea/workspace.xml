@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9acef62-6bef-456c-ae48-ce568099f31a" name="Default Changelist" comment="8.11">
-      <change afterPath="$PROJECT_DIR$/Work/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/Thread/TestVolatile.java" afterDir="false" />
+    <list default="true" id="d9acef62-6bef-456c-ae48-ce568099f31a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/数据结构.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/practice/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,20 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/src/practice/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="152">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestThread.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/src/Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="361">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -115,6 +110,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -122,6 +124,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" />
+        <option value="$PROJECT_DIR$/Work/src/practice/Sort.java" />
+        <option value="$PROJECT_DIR$/Work/src/Sort.java" />
       </list>
     </option>
   </component>
@@ -157,6 +161,21 @@
               <item name="Work" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,6 +184,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Work/src/LeetCode/Tree" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stone\OneDrive\java\Work\src\LeetCode\Tree" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,7 +203,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Thread.TestVolatile" />
       <module name="java" />
@@ -192,8 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TestVolatile" />
+      <item itemvalue="Application.Sort" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.TestVolatile" />
       </list>
     </recent_temporary>
@@ -202,16 +239,25 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="8.13">
+      <created>1565680098079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565680098079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2509000" />
+    <option name="totallyTimeSpent" value="8227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.87058824" visible="true" weight="0.15831557" />
-      <window_info id="Structure" order="1" sideWeight="0.12941177" side_tool="true" visible="true" weight="0.15831557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8695015" visible="true" weight="0.15831557" />
+      <window_info id="Structure" order="1" sideWeight="0.13049853" side_tool="true" visible="true" weight="0.15831557" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -220,7 +266,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17028199" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26030368" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3327869" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,6 +288,10 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="8.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.13" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Java/jdk1.8.0_202/src.zip!/java/util/HashMap.java">
@@ -352,10 +402,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/Thread/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Work/src/practice/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/src/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>

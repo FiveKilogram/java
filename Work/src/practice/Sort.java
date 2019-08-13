@@ -32,6 +32,8 @@ public class Sort {
 			}
 		}
 	}
+
+
 	@Test
 	//冒泡排序,从前往后，每次确定最小元素。
 	public void BubbleSort(int a[]) {
@@ -130,8 +132,6 @@ public class Sort {
 	}
 	
 	public void Merge(int a[], int min, int mid,int max) {
-		
-		
 		int b[] = new int[max+1];
 		for(int i=min;i<=max;i++) {
 			b[i] = a[i];
