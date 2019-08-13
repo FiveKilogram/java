@@ -20,6 +20,7 @@ public class Sort {
         }
     }
 
+
     //直接插入排序
     public void insertSort(int nums[]){
         for (int i = 1; i < nums.length; i++) {
@@ -36,6 +37,8 @@ public class Sort {
     }
 
 
+
+    fdsgfdhgrjhki;
 
     //冒泡排序
     public void bubbleSort(int nums[]){
