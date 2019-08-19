@@ -9,10 +9,6 @@ import java.util.Set;
 
 public class Main {
 
-	public static void main(String[] args) {
-		
-
-	}
 	
 	
 	//Á´±í
@@ -248,7 +244,41 @@ public class Main {
         }
         return ans;
     }
-	
+
+
+	public int longestPalindromeSubseq(String s) {
+		int len = s.length();
+		boolean pd[][] = new boolean[len][len];
+		int start = 0;
+		int maxLen = 1;
+		for (int j = 0; j < len; j++) {
+			for (int i = 0; i <= j; i++) {
+				if(i==j){
+					pd[i][j] = true;
+				}
+				else if((j-i)==1){
+					pd[i][j] = s.charAt(i)==s.charAt(j);
+				}else {
+					pd[i][j] = (s.charAt(i)==s.charAt(j))&&pd[i+1][j-1];
+				}
+
+				if(pd[i][j]&&(j-i+1)>maxLen){
+					start = i;
+					maxLen = j - i + 1;
+				}
+			}
+		}
+		return maxLen;
+	}
+
+
+	public static void main(String[] args) {
+
+		Main main = new Main();
+
+		System.out.println(main.longestPalindromeSubseq("babb"));
+
+	}
 }
 
 
