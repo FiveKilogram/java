@@ -9,7 +9,7 @@ public class TestRex {
 		Pattern p = Pattern.compile("[a-z]{3}");
 		Matcher m  = p.matcher("fgh");
 		System.out.println(m.matches());
-		System.out.println(" \n\t\r".matches("\\s{4}"));
+		System.out.println(" \n\t\r".matches("s{4}"));
 		System.out.println("\\".matches("\\\\"));
 	}
 

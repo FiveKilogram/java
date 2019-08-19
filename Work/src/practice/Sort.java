@@ -103,21 +103,39 @@ public class Sort {
 	}
 	
 	
-	public int Portition(int a[], int min, int max) {
-		int i = min+1;
-		int j = max;
-		
-		while(i<j) {
-			while(i<=max&&a[i]<a[min]) {
-				i = i+1;
+//	public int Portition(int a[], int min, int max) {
+//		int i = min+1;
+//		int j = max;
+//
+//		while(i<j) {
+//			while(i<=max&&a[i]<a[min]) {
+//				i = i+1;
+//			}
+//			while(j>=min&&a[j]>a[min]) {
+//				j = j-1;
+//			}
+//			Swap(a, i, j);
+//		}
+//		Swap(a, i, j);
+//		Swap(a, min, j);
+//		return j;
+//	}
+	public int Portition(int a[], int low, int high) {
+		int i = low;
+		int j = high;
+		int temp = low;
+		while (i<j){
+			while (i<j&&a[j]>=a[temp]){
+				j--;
 			}
-			while(j>=min&&a[j]>a[min]) {
-				j = j-1;
+			while (i<j&&a[i]<=a[temp]){
+				i++;
 			}
-			Swap(a, i, j);
+			if(i<j){
+				Swap(a,i,j);
+			}
 		}
-		Swap(a, i, j);
-		Swap(a, min, j);
+		Swap(a,j,low);
 		return j;
 	}
 	
@@ -197,7 +215,8 @@ public class Sort {
 		// TODO Auto-generated method stub
 		int a[] = {9, 7, 3, 2, 4, 1, 0, 17, 18, 20};
 		Sort st = new Sort();
-		st.InsertSort(a);
+		//st.QuickSort1(a,0,a.length-1);
+		st.HeapSort(a,a.length);
 		for(int i =0;i<a.length;i++) {
 			System.out.println(a[i]);
 		}
