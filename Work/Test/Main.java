@@ -73,5 +73,18 @@ public class Main {
         a[i] = a[j];
         a[j] = temp;
     }
+    public void reOrderArray(int [] array) {
+        int i = 0;
+        int j = array.length;
+        while(i<j){
+            while((i<j)&&(i%2==1)){
+                i++;
+            }
+            while((i<j)&&(i%2==0)){
+                j++;
+            }
+            Swap(array,i,j);
+        }
+    }
 
 }

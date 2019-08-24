@@ -279,6 +279,26 @@ public class Main {
 		System.out.println(main.longestPalindromeSubseq("babb"));
 
 	}
+
+	public ListNode FindKthToTail(ListNode head,int k) {
+		ListNode node = head;
+		int i = 0;
+		while(head!=null&&i<k){
+			i++;
+			head = head.next;
+		}
+		if(head==null){
+			return null;
+		}
+
+		while(head!=null){
+			head = head.next;
+			node = node.next;
+		}
+		return node;
+	}
+
+
 }
 
 

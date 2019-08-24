@@ -1,6 +1,11 @@
+import java.util.HashSet;
+import java.util.Map;
 import java.util.Scanner;
+import java.util.Set;
+
 public class Test2 {
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
         String string[] = new String[3];
         int i = 0;
@@ -41,4 +46,5 @@ public class Test2 {
         }
 
     }
+
 }

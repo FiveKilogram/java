@@ -179,8 +179,8 @@ public class Sort {
     public static void main(String[] args) {
         int num[] = {4,0,5,2,-1,66,9,17};
         Sort sort = new Sort();
-        //sort.QuickSort2(num,0,num.length-1);
-        sort.heapSort(num);
+        sort.QuickSort2(num,0,num.length-1);
+        //sort.heapSort(num);
         printArray(num);
     }
 
@@ -189,5 +189,8 @@ public class Sort {
             System.out.println(a);
         }
     }
+
+
+
 
 }
