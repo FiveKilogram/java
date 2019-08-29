@@ -11,7 +11,8 @@ public class Reflection {
 	public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException, NoSuchFieldException, NoSuchMethodException, InvocationTargetException, UnsupportedEncodingException {
 		Class c = Class.forName("Reflection.TT");
 
-		//c.getSuperclass().newInstance();
+		//c.getSuperclass()
+		Class  cf = c.getSuperclass();
 
 		Constructor constructor = c.getConstructor();
 		constructor.setAccessible(true);
