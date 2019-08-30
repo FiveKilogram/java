@@ -61,15 +61,15 @@ public class Solution {
         if (root == null) {
             return output;
         }
-        stack.add(root);
+        stack.push(root);
         while (!stack.isEmpty()) {
             TreeNode node = stack.pop();
             output.addFirst(node.val);
             if (node.left != null) {
-                stack.add(node.left);
+                stack.push(node.left);
             }
             if (node.right != null) {
-                stack.add(node.right);
+                stack.push(node.right);
             }
         }
         return output;

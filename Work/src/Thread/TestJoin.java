@@ -19,7 +19,8 @@ public class TestJoin implements Runnable {
         TestJoin testJoin = new TestJoin();
         Thread thread = new Thread(testJoin);
         thread.start();
-        //thread.join();
+        thread.join();
+
         System.out.println(testJoin.a);
     }
 
