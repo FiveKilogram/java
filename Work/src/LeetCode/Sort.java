@@ -26,7 +26,6 @@ public class Sort {
         }
     }
 
-
     public void swap(int nums[], int a, int b){
         int temp =0;
         temp = nums[a];

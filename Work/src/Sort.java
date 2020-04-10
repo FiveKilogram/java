@@ -161,19 +161,19 @@ public class Sort {
     }
 
     public void adjustHeap(int nums[], int len, int i){
-        int temp = nums[i];
-        for (int j = 2*i + 1; j <= len-1; j = j*2 + 1) {
-            if(j<len-1&&nums[j+1]>nums[j]){
-                j++;
+            int temp = nums[i];
+            for (int j = 2*i + 1; j <= len-1; j = j*2 + 1) {
+                if(j<len-1&&nums[j+1]>nums[j]){
+                    j++;
+                }
+                if(nums[j]>temp){
+                    nums[i] = nums[j];
+                    i = j;
+                }else{
+                    break;
+                }
+                nums[i] = temp;
             }
-            if(nums[j]>temp){
-                nums[i] = nums[j];
-                i = j;
-            }else{
-                break;
-            }
-            nums[i] = temp;
-        }
     }
 
     public static void main(String[] args) {

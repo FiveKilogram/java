@@ -2,6 +2,7 @@ package LeetCode.Tree;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 import java.util.Stack;
 
 public class Solution {
@@ -37,7 +38,6 @@ public class Solution {
         }
         return list;
     }
-
 
 
     public List<Integer> postorderTraversal2(TreeNode root) {

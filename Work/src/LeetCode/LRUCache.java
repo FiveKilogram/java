@@ -31,9 +31,6 @@ class LRUCache {
 			Iterator<Map.Entry<Integer, Integer>> iterator=map.entrySet().iterator();
 			iterator.next();
 			iterator.remove();
-			//map.remove()
-			// int firstKey = map.e***ySet().iterator().next().getValue();
-			// map.remove(firstKey);
 		}
 		map.put(key, value);
 	}

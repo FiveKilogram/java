@@ -15,6 +15,14 @@ public class TestString {
 		TestString.pt(s3==s4);
 		TestString.pt(s5==s4);
 
+
+		char a = 'b';
+		char b = 'c';
+		int d = 2;
+		char c;
+		c = (char)(b + d);
+		System.out.println(c);
+
 	}
 	
 	public static void pt(Object o) {
@@ -23,5 +31,6 @@ public class TestString {
 //		Integer d = 127;
 //		System.out.println(c == d);
 	}
+
 	 
 }

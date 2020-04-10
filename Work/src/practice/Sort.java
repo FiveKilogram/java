@@ -121,17 +121,17 @@ public class Sort {
 //		return j;
 //	}
 	public int Portition(int a[], int low, int high) {
-		int i = low;
-		int j = high;
-		int temp = low;
-		while (i<j){
-			while (i<j&&a[j]>=a[temp]){
-				j--;
-			}
-			while (i<j&&a[i]<=a[temp]){
-				i++;
-			}
-			if(i<j){
+				int i = low;
+				int j = high;
+				int temp = low;
+				while (i<j){
+					while (i<j&&a[j]>=a[temp]){
+						j--;
+					}
+					while (i<j&&a[i]<=a[temp]){
+						i++;
+					}
+					if(i<j){
 				Swap(a,i,j);
 			}
 		}
