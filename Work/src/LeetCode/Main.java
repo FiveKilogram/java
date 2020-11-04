@@ -1,7 +1,5 @@
 package LeetCode;
 
-import org.junit.Test;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -194,7 +192,6 @@ public class Main {
 		}
 		return maxProfit;
 	}
-	@Test
 	public void test(){
 		int a[] = {3,3,5,0,0,3,1,4};
 		System.out.println(halfMaxProfit(a,1,a.length));
@@ -300,26 +297,3 @@ public class Main {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
