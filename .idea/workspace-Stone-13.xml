@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a7cb9df-cbf0-4d29-b4b3-6992d5cf8527" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Work/Test/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Main30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/Test/Test20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Test/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Test/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/Test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Main11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Main5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Main7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Main8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/Mian9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/TestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/practice/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/src/practice/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UGxPSQvHYHM9446ULMjYidoJcO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="J:/慕课网Java/04.SSM到Spring Boot入门与综合实战 2019版/步骤二：Spring MVC入门与SSM整合开发/实战：办公系统核心模块/SSM整合开发源代码/SSM整合开发源代码/oa" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bilibili.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main4" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XieChen.Main6" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XieChen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Test" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Test.test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a7cb9df-cbf0-4d29-b4b3-6992d5cf8527" name="Default Changelist" comment="" />
+      <created>1567751896522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567751896522</updated>
+      <workItem from="1567751902867" duration="2511000" />
+      <workItem from="1567769609500" duration="1166000" />
+      <workItem from="1567819730606" duration="860000" />
+      <workItem from="1567942130208" duration="2712000" />
+      <workItem from="1567989593733" duration="1403000" />
+      <workItem from="1567996791409" duration="3470000" />
+      <workItem from="1567984156178" duration="1434000" />
+      <workItem from="1568026307371" duration="598000" />
+      <workItem from="1568076978847" duration="2629000" />
+      <workItem from="1568165369322" duration="644000" />
+      <workItem from="1568183203387" duration="2658000" />
+      <workItem from="1568257351807" duration="2068000" />
+      <workItem from="1568467340340" duration="599000" />
+      <workItem from="1568516246935" duration="1008000" />
+      <workItem from="1569212226625" duration="1222000" />
+      <workItem from="1569290291380" duration="2164000" />
+      <workItem from="1569462048421" duration="929000" />
+      <workItem from="1570371151100" duration="73000" />
+      <workItem from="1570502156640" duration="954000" />
+      <workItem from="1570584459266" duration="4833000" />
+      <workItem from="1570676978634" duration="905000" />
+      <workItem from="1570779754082" duration="995000" />
+      <workItem from="1571034637039" duration="598000" />
+      <workItem from="1571191043031" duration="3166000" />
+      <workItem from="1571225093463" duration="599000" />
+      <workItem from="1571539590708" duration="2040000" />
+      <workItem from="1572183565887" duration="2203000" />
+      <workItem from="1573109449764" duration="2263000" />
+      <workItem from="1573433479083" duration="2992000" />
+      <workItem from="1573608246130" duration="764000" />
+      <workItem from="1573956679010" duration="338000" />
+      <workItem from="1574390786342" duration="732000" />
+      <workItem from="1574664461234" duration="1201000" />
+      <workItem from="1574736007391" duration="2412000" />
+      <workItem from="1574992749157" duration="684000" />
+      <workItem from="1574996714625" duration="768000" />
+      <workItem from="1575635881250" duration="27000" />
+      <workItem from="1575818796983" duration="5000" />
+      <workItem from="1575868316453" duration="1436000" />
+      <workItem from="1576115205488" duration="2081000" />
+      <workItem from="1576636714065" duration="820000" />
+      <workItem from="1577264189490" duration="670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9.25" />
+    <MESSAGE value="11.26" />
+    <MESSAGE value="12.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.25" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1577264426291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1575873277024" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577264426291" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1575868388014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1575868388014" />
+  </component>
+</project>

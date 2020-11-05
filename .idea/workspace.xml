@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35cd2c3a-c731-45ad-bc58-9a195fcf6965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Work/Test/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Main30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/Test/Test20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Main50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Work/src/SmallRedBook/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8a68adc0-85de-4e7d-92ab-3392b1caaeff.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="35cd2c3a-c731-45ad-bc58-9a195fcf6965" name="Default Changelist" comment="2020.11.4">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-DESKTOP-RE7EKT9-3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-Stone-9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Test/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Test/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/Test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/Test/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/LeetCode/Tree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Main11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Main5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Main7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Main8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Mian9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/TestString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/practice/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/practice/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/src/practice/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work/src/practice/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,17 +57,51 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Main4">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main30" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main4" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vivo.Main4" />
       <module name="java" />
@@ -67,31 +115,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main6" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Test" />
       <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main30" />
+        <item itemvalue="Application.Main4 (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main6" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,29 +157,91 @@
       <workItem from="1578900640184" duration="1335000" />
       <workItem from="1579163705970" duration="5000" />
       <workItem from="1579250430598" duration="28000" />
-      <workItem from="1586509136089" duration="423000" />
+      <workItem from="1586509136089" duration="3057000" />
+      <workItem from="1587974573981" duration="726000" />
+      <workItem from="1591186334968" duration="529000" />
+      <workItem from="1591455550849" duration="2052000" />
+      <workItem from="1592059480730" duration="26000" />
+      <workItem from="1594449178437" duration="54000" />
+      <workItem from="1594449436917" duration="24000" />
+      <workItem from="1594449980849" duration="28000" />
+      <workItem from="1594456081274" duration="182000" />
+      <workItem from="1594773264098" duration="478000" />
+      <workItem from="1597985341304" duration="665000" />
+      <workItem from="1598015900948" duration="498000" />
+      <workItem from="1599651728549" duration="666000" />
+      <workItem from="1601296531891" duration="1629000" />
+      <workItem from="1604455776811" duration="1730000" />
+      <workItem from="1604575802865" duration="318000" />
     </task>
+    <task id="LOCAL-00001" summary="2020.2.10">
+      <created>1586509617784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586509617784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020.11.4">
+      <created>1604456924333</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604456924334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1604457125201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604457125201</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020.2.10" />
+    <MESSAGE value="2020.11.4" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1577264957018">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1225" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604456115818">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577264957018" />
-    <state x="461" y="161" key="SettingsEditor" timestamp="1578364353445">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1225" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604456115818" />
+    <state x="-1427" y="125" key="CommitChangelistDialog2" timestamp="1604457125020">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578364353445" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1577265086577">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1427" y="125" key="CommitChangelistDialog2/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604456660923" />
+    <state x="-1427" y="125" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604457125020" />
+    <state x="-1459" y="157" key="SettingsEditor" timestamp="1597985987962">
+      <screen x="-1920" y="23" width="1920" height="990" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577265086577" />
-    <state x="334" y="129" key="new project wizard" timestamp="1578381367403">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1459" y="157" key="SettingsEditor/0.23.1440.877/-1920.23.1920.990@-1920.23.1920.990" timestamp="1597985987962" />
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2" timestamp="1604457126767">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="334" y="129" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578381367403" />
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604457126767" />
+    <state x="-1263" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597986028666">
+      <screen x="-1920" y="23" width="1920" height="990" />
+    </state>
+    <state x="-1263" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877/-1920.23.1920.990@-1920.23.1920.990" timestamp="1597986028666" />
+    <state x="-1592" y="214" key="new project wizard" timestamp="1604575861375">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1592" y="214" key="new project wizard/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604575861375" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
