@@ -23,6 +23,9 @@ public class Main4 {
 
     }
 
+
+
+
     public static int numForPeople(int weight[],int limit){
         Arrays.sort(weight);
         int i = 0;
