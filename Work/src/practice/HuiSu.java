@@ -1,6 +1,5 @@
 package practice;
 
-import org.junit.Test;
 
 public class HuiSu {
 

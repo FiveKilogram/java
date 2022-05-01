@@ -1,9 +1,8 @@
 package LeetCode;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import LeetCode.Tree.TreeNode;
+
+import java.util.*;
 
 public class Main {
 
@@ -89,19 +88,14 @@ public class Main {
         	l2.next = l1;
         	p.next = l2;
         	l1.next = next;
-
         	//异常神用
         	try {
 				p = l1;
 				l1 = p.next;
 				l2 = p.next.next;
 			} catch (Exception e) {
-				
 				return temp.next;
 			}
-
-            
-        	
         }
         
         
@@ -146,6 +140,55 @@ public class Main {
         
         return subLen;
     }
+
+
+	public TreeNode invertTree(TreeNode root) {
+
+		Queue<TreeNode> queue = new LinkedList();
+
+		queue.offer(root);
+		while (!queue.isEmpty()){
+			TreeNode node = queue.poll();
+			TreeNode leftNode =node.left;
+			TreeNode rightNode =node.right;
+			if(leftNode!=null){
+				queue.offer(leftNode);
+			}
+			if(rightNode!=null){
+				queue.offer(rightNode);
+			}
+			node.left = rightNode;
+			node.right = leftNode;
+		}
+
+		return root;
+
+
+
+
+//		if(root==null){
+//			return root;
+//		}
+//		TreeNode left = invertTree(root.left);
+//		TreeNode right = invertTree(root.right);
+//		root.left = right;
+//		root.right = left;
+//		return root;
+	}
+
+	public int singleNumber(int[] nums) {
+		int result = nums[1];
+		for (int i = 0; i < nums.length; i++) {
+			if(nums[i-1]!=nums[i]){
+				result = nums[i];
+			}
+		}
+		for (int num:nums) {
+
+		}
+		return result;
+	}
+
 
     //给定三个字符串 s1, s2, s3, 验证 s3 是否是由 s1 和 s2 交错组成的，使用动态规划
 	public boolean isInterleave(String s1, String s2, String s3) {

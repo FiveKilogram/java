@@ -1,6 +1,4 @@
 package practice;
-import org.junit.Test;
-
 import java.util.Stack;
 
 public class Sort {
@@ -34,7 +32,6 @@ public class Sort {
 	}
 
 
-	@Test
 	//冒泡排序,从前往后，每次确定最小元素。
 	public void BubbleSort(int a[]) {
 		for(int i = 0;i<a.length-1;i++) {

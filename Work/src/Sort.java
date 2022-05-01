@@ -1,4 +1,4 @@
-import java.util.Stack;
+import java.util.*;
 
 public class Sort {
 
@@ -12,7 +12,7 @@ public class Sort {
 
     //选择排序
     public void selectSort(int nums[]){
-        for (int i = 1; i < nums.length-1; i++) {
+        for (int i = 0; i < nums.length-1; i++) {
             int min = i;
             for (int j = i+1; j < nums.length; j++) {
                 if(nums[j]<nums[min])
@@ -21,6 +21,21 @@ public class Sort {
             swap(nums,min,i);
         }
     }
+
+    public void selectSort2(int nums[]){
+        Deque arrayList = new LinkedList();
+
+        for (int i = 0; i < nums.length-1; i++) {
+            int min = i;
+            for (int j = i+1; j < nums.length; j++) {
+                if(nums[j]<nums[min]){
+                    min=j;
+                }
+            }
+            swap(nums,i,min);
+        }
+    }
+
 
 
     //直接插入排序
@@ -38,6 +53,53 @@ public class Sort {
         }
     }
 
+
+
+    public void insertSort2(int nums[]){
+        for (int i =1;i<nums.length;i++){
+            int temp = nums[i];
+            if(nums[i]<nums[i-1]){
+                int j = 0;
+                for (j = i-1; j > 0; j--) {
+                    if(nums[j]>temp){
+                        nums[j+1] = nums[j];
+                    }
+                }
+                nums[j+1] = temp;
+            }
+        }
+    }
+
+
+    public void bubbleSort5(int nums[]){
+        for (int i = 0; i < nums.length-1; i++) {
+            boolean change = false;
+            for (int j = nums.length-1; j >i ; j--) {
+                if(nums[j]<nums[j-1]){
+                    swap(nums,j,j-1);
+                    change = true;
+                }
+            }
+            if(!change){
+                return;
+            }
+        }
+
+//        for (int i = nums.length-1; i >0 ; i--) {
+//            boolean change = false;
+//            for (int j = 0; j < i; j++) {
+//                if(nums[j]>nums[j+1]){
+//                    swap(nums,j,j-1);
+//                    change = true;
+//                }
+//            }
+//            if(!change){
+//                return;
+//            }
+//        }
+
+
+    }
 
 
     //冒泡排序, 从小到大排序
@@ -146,6 +208,24 @@ public class Sort {
         return j;
     }
 
+
+    public int Portition2(int a[], int low, int high) {
+        int temp = low;
+        while (low<high){
+            while (low<high&&a[high]>=a[temp]){
+                high--;
+            }
+            a[low] = a[high];
+            while (low<high&&a[low]<=a[temp]){
+                low++;
+            }
+            a[high] = a[low];
+        }
+        a[low] = temp;
+        return low;
+    }
+
+
     public void heapSort(int nums[]){
         buildHeap(nums);
         for (int i = nums.length-1; i >0; i--) {
@@ -177,17 +257,49 @@ public class Sort {
     }
 
     public static void main(String[] args) {
-        int num[] = {4,0,5,2,-1,66,9,17};
+//        int num[] = {4,0,5,2,-1,66,9,17};
+        int num[] = {2, 3, 6, 7};
+
         Sort sort = new Sort();
-        sort.QuickSort2(num,0,num.length-1);
+        sort.bubbleSort5(num);
         //sort.heapSort(num);
         printArray(num);
+        List<Integer> integers = Arrays.asList(2, 3, 6, 7);
+        List<List<Integer>> lists = sort.combinationSum(num, 7);
+        System.out.println(lists);
     }
 
     public static void printArray(int nums[]){
         for (int a:nums) {
             System.out.println(a);
         }
+    }
+
+
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> path = new ArrayList<>();
+        Arrays.sort(candidates);
+        find(result,candidates,target,0, path);
+        return result;
+    }
+
+    private void find(List<List<Integer>> result, int[] candidates, int target, int position,List<Integer> path){
+        if(target<0){
+            return;
+        }
+        if(target==0){
+            result.add(new ArrayList<>(path));
+            return;
+        }
+        for (int i = position; i < candidates.length; i++) {
+            if(i>position&&candidates[i]==candidates[i-1])
+                break;
+            path.add(candidates[i]);
+            find(result,candidates,target-candidates[i],i, path);
+            path.remove(path.size()-1);
+        }
+
     }
 
 
